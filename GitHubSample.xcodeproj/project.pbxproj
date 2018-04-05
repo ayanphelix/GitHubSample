@@ -12,7 +12,7 @@
 		C8D5B25D2076AD2D00E3C5C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8D5B25C2076AD2D00E3C5C1 /* Assets.xcassets */; };
 		C8D5B2602076AD2D00E3C5C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8D5B25E2076AD2D00E3C5C1 /* LaunchScreen.storyboard */; };
 		C8D5B2682076B28A00E3C5C1 /* view+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D5B2672076B28A00E3C5C1 /* view+extension.swift */; };
-		C8D5B26A2076B2AE00E3C5C1 /* colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D5B2692076B2AE00E3C5C1 /* colors.swift */; };
+		C8D5B26A2076B2AE00E3C5C1 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D5B2692076B2AE00E3C5C1 /* Service.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		C8D5B25F2076AD2D00E3C5C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C8D5B2612076AD2D00E3C5C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C8D5B2672076B28A00E3C5C1 /* view+extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "view+extension.swift"; path = "../../../Users/ayanphelix/Desktop/view+extension.swift"; sourceTree = "<group>"; };
-		C8D5B2692076B2AE00E3C5C1 /* colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colors.swift; path = ../../../Users/ayanphelix/Desktop/colors.swift; sourceTree = "<group>"; };
+		C8D5B2692076B2AE00E3C5C1 /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Service.swift; path = ../../../Users/ayanphelix/Desktop/Service.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 				C8D5B2552076AD2800E3C5C1 /* AppDelegate.swift */,
 				C8D5B2572076AD2800E3C5C1 /* HomeVC.swift */,
 				C8D5B2672076B28A00E3C5C1 /* view+extension.swift */,
-				C8D5B2692076B2AE00E3C5C1 /* colors.swift */,
+				C8D5B2692076B2AE00E3C5C1 /* Service.swift */,
 				C8D5B25C2076AD2D00E3C5C1 /* Assets.xcassets */,
 				C8D5B25E2076AD2D00E3C5C1 /* LaunchScreen.storyboard */,
 				C8D5B2612076AD2D00E3C5C1 /* Info.plist */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8D5B2682076B28A00E3C5C1 /* view+extension.swift in Sources */,
-				C8D5B26A2076B2AE00E3C5C1 /* colors.swift in Sources */,
+				C8D5B26A2076B2AE00E3C5C1 /* Service.swift in Sources */,
 				C8D5B2582076AD2800E3C5C1 /* HomeVC.swift in Sources */,
 				C8D5B2562076AD2800E3C5C1 /* AppDelegate.swift in Sources */,
 			);

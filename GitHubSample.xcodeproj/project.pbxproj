@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C8B60A90207894A800DF7091 /* Color + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B60A8F207894A800DF7091 /* Color + Extension.swift */; };
 		C8D5B2562076AD2800E3C5C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D5B2552076AD2800E3C5C1 /* AppDelegate.swift */; };
 		C8D5B2582076AD2800E3C5C1 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D5B2572076AD2800E3C5C1 /* HomeVC.swift */; };
 		C8D5B25D2076AD2D00E3C5C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8D5B25C2076AD2D00E3C5C1 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C8B60A8F207894A800DF7091 /* Color + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color + Extension.swift"; sourceTree = "<group>"; };
 		C8D5B2522076AD2800E3C5C1 /* GitHubSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8D5B2552076AD2800E3C5C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8D5B2572076AD2800E3C5C1 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				C8D5B2552076AD2800E3C5C1 /* AppDelegate.swift */,
 				C8D5B2572076AD2800E3C5C1 /* HomeVC.swift */,
 				C8D5B2672076B28A00E3C5C1 /* view+extension.swift */,
+				C8B60A8F207894A800DF7091 /* Color + Extension.swift */,
 				C8D5B2692076B2AE00E3C5C1 /* Service.swift */,
 				C8D5B25C2076AD2D00E3C5C1 /* Assets.xcassets */,
 				C8D5B25E2076AD2D00E3C5C1 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C8D5B26A2076B2AE00E3C5C1 /* Service.swift in Sources */,
 				C8D5B2582076AD2800E3C5C1 /* HomeVC.swift in Sources */,
 				C8D5B2562076AD2800E3C5C1 /* AppDelegate.swift in Sources */,
+				C8B60A90207894A800DF7091 /* Color + Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

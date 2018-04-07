@@ -14,7 +14,7 @@ class HomeVC: UIViewController {
         let button = UIButton(type: .system)
         button.setTitle("LOGIN", for: .normal)
         button.setTitleColor(Service.buttonTitleColor, for: .normal)
-        button.backgroundColor = Service.primaryDarkColor
+        button.backgroundColor = Service.buttonBackgroundColor
         button.titleLabel?.font = Service.buttonFontSize
         button.layer.masksToBounds = true
         button.layer.cornerRadius = Service.buttonCornerRadius
